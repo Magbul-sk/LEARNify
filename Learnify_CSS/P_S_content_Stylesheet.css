@@ -1,0 +1,25 @@
+.content{
+    margin: auto;
+    width: 60%;
+    height: 500px;
+}
+.content-blocks{
+    width: 40%;
+    height: 170px;
+    margin: 100px 20px 20px 20px;
+    float: left;
+    
+}
+.content-blocks a{
+    text-decoration: none;
+    color: rgb(0, 102, 122);
+
+}
+.content-blocks img:hover{
+   opacity: 0.6;
+}
+.courses-heading{
+    text-align: center;
+    color:rgb(0, 102, 122) ;
+    text-shadow: 10px 10px 5px rgb(0, 102, 122);
+}

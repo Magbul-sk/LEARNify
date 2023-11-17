@@ -1,0 +1,23 @@
+.road-map{
+    width: 100%;
+    height: 315px;
+    
+}
+.road-map-design{
+    width: 40%;
+    height: 300px;
+    padding-left: 50px ;
+    float: left;
+}
+.road-map-heading{
+    width: 40%;
+    height: 300px;
+    padding-top: 100px;
+    padding-left: 100px;
+    float: left;
+}
+.road-map-heading h4{
+    line-height: 23px;
+    color: rgb(108, 108, 108);
+    font-weight: 100;
+}
